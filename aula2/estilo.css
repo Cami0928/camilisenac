@@ -57,18 +57,19 @@
     width: 450px;
     height: 500px;
     float: left;
-    background-color: maroon;
+    background-color: blue;
 }
 #direita{
     width: 450px;
     height: 500px;
-    background-color: maroon;
+
+    background-color: blue;
     float: right;
 }
 #rodape{
     width: 980px;
     height: 50px;
-    background-color: darkred;
+    background-color: blue;
     margin: auto;
     margin-top: 50px;
 }
